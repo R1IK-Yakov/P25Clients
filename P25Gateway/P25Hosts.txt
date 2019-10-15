@@ -9,6 +9,9 @@
 # 707 Rural Minnesota - Bridge to TGIF707, YSF US RuralMN-707
 707 707p25.kd0ioe.com 41000
 
+# 2503 RU DMR TG2503
+2503 p25.r1ik.ru 41000
+
 # 5057 VK7 TAS 
 5057    45.248.50.37    41000
 
